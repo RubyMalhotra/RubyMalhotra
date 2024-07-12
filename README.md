@@ -1,4 +1,4 @@
-
+![logo](https://github.com/RubyMalhotra/RubyMalhotra/blob/main/RUBY%20MALHOTR.png)
 <h1 align="center">Hi 👋, I'm Ruby Malhotra</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
